@@ -1,0 +1,12 @@
+venv/
+db.sqlite3
+.idea
+.gitattributes
+./.pytest_cache
+.DS_Store
+__pycache__
+.vscode
+/static
+*.pyc
+*~
+secrets.txt
